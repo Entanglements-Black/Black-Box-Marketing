@@ -1,0 +1,12 @@
+{
+  "name": "black-box-marketing-backend",
+  "version": "1.0.0",
+  "description": "Backend for Black Box Marketing",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "openai": "^4.28.0"
+  }
+}
